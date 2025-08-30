@@ -1,0 +1,50 @@
+---
+layout: post
+title: Minecraft 1.21.x - The Trails & Tales, The Garden Awakens, Spring to Life, Bundles of Bravery, Chicken Jockey DLC
+---
+
+Ohhh scary very tricky trails!! Woah.<br>
+Let's fight the Breeze and some green skeletons! oh i died.<br>
+
+**Changelog:**<br>
+\* All features and changes from the "Update 1.20" experimental pack are now part of the game<br>
+\* Trial content & new combat: Added Trial Chambers, Trial Spawners, Vaults, Trial Keys and Explorer Maps, Trial-specific blocks (Heavy Core, Ominous Vault, etc.). (1.21.0).<br>
+\* New mobs (Trials): Introduced Breeze and Bogged with associated behaviors and ambient sounds. (1.21.0).<br>
+\* New weapon: Mace weapon and three Mace enchantments (Density, Breach, Wind Burst). (1.21.0).<br>
+\* Trial items & status effects: Trial-themed potions, tipped arrows, Ominous Bottle, Wind Charge, Breeze Rod, new status effects (Infested, Oozing, Weaving, Wind Charged, Raid Omen, Trial Omen). (1.21.0).<br>
+\* New blocks & materials (trial & misc): Crafter, Trial Spawner blocks, Vault blocks, Copper/Tuff variants, Heavy Core and pottery sherd additions. (1.21.0).<br>
+\* Boats leashable: Boats can be leashed. (1.21.0).<br>
+\* 1.21.1 fixes & languages: Critical stability/exploit patches, server compatibility fixes, added language support (Tzotzil and Belarusian (Latin)). (1.21.1).<br>
+\* Bundles (inventory QoL): Introduced Bundles (stack-saving item) with insertion/preview behavior, crafting, scrolling selection and related container/dye behavior fixes. (1.21.2).<br>
+\* Realms & upload improvements: Hardcore on Realms, improved Realm world creation controls and upload handling; command blocks default and improved Realms UI in later subversions. (1.21.2 / 1.21.5).<br>
+\* Extensive bug fixes & technical improvements: Hundreds of bug fixes across entity behavior, rendering, world gen and creator tools; many under-the-hood improvements for stability and creator control. (1.21.2 + ongoing).<br>
+\* Experimental biome & Pale Garden family: Pale Garden biome with Pale Oak wood set (logs, planks, slabs, stairs, signs, doors, trapdoors, fences, saplings, leaves), Pale Moss (block/carpet/hanging), Eyeblossoms, ambient biome sounds and seed placement. (1.21.4).<br>
+\* Creaking content: Added Creaking mob and Creaking Heart block that spawns Creakings under conditions; associated ambient/audio behavior. (1.21.4).<br>
+\* Resin materials: Resin Clump, Block of Resin, Resin Bricks, Chiseled Resin Bricks, slab/stairs/walls (Resin family). (1.21.4).<br>
+\* Pale Garden technical & UX: Data pack & resource pack version bumps, new tags, command suggestions, custom world-gen options, furnace/HUD updates and other text/component improvements. (1.21.4).<br>
+\* Tooltips & UI QoL: Crossbows show charged projectiles; container tooltips (chests/shulker-like previews) and other recipe/tooltip improvements. (1.21.5).<br>
+\* Sound & visual tweaks: New and rebalanced sounds (iron, pistons, grass, wolf sounds, spawn eggs visuals, falling-leaf particles), fog/panorama updates, narrator volume improvements and other accessibility tweaks. (1.21.5 + 1.21.6).<br>
+\* New plants & environment assets: Firefly Bush, Leaf Litter, Wildflowers, Bush, Short & Tall Dry Grass, Cactus Flower, Fallen tree generation — Overworld landscaping additions. (1.21.5).<br>
+\* Data pack / test framework exposure: Game test system improvements, new `test` command hooks, data pack format extensions and server/client test entry points for creators. (1.21.5 + 1.21.6).<br>
+\* Languages added: Kyrgyz added. (1.21.5).<br>
+\* Advancements added: “Stay Hydrated!” (placing Dried Ghast block in water) and “Heart Transplanter” (align Creaking Heart between two Pale Oak logs). (1.21.6).<br>
+\* Leash overhaul: New leash recipe (string-based), improved leash physics, thicker double-leash behavior, support for leashing two mobs, sneak-re-leash behavior, dispenser/shears interactions for snipping/re-leashing, leash knot range rules and related mechanics. (1.21.6).<br>
+\* Saddles craftable & shearable: Saddles can be crafted and sheared now; related behavior adjustments. (1.21.6).<br>
+\* Ghast / dried-ghast & bartering: Bartering with piglins can yield Dried Ghast blocks; Ghast textures and audio updated. (1.21.6).<br>
+\* Projectile / elytra / spectator tweaks: Projectile targeting, elytra-firework behavior, spectator teleport adjustments and various camera/collision refinements. (1.21.6).<br>
+\* Gameplay polish: Grazing/healing tweaks for horses/donkeys/mules, mirrored legs visuals for certain mobs, decorative entity explosion immunity adjustments, cloud/camera options changes. (1.21.6).<br>
+\* Removed Herobrine: Herobrine removal noted as part of the polish/cleanups. (1.21.6).<br>
+\* 1.21.3 & patch fixes: Critical Realm join/resource-pack issues fixed; salmon size upgrade bug fixed (auto-upgrade small salmon to medium after update). (1.21.3).<br>
+\* Aesthetic content & music: New 3×3 painting “Good Boy” by Sarah Boeving and music disc “Lava Chicken” by Hyper Potions (dropped by Chicken Jockey). (1.21.7).<br>
+\* Data/Resource pack version bumps: Data pack and resource pack version updates across releases (numerous bumps to keep formats compatible). (1.21.4 → 1.21.8 series).<br>
+\* Stability & graphics hotfixes: Multiple hotfixes for Intel integrated GPUs (texture atlas corruption, flicker, lighting & inventory rendering issues), AMD resource-pack crash fixes and other driver/renderer stability fixes. (1.21.7, 1.21.8).<br>
+\* Miscellaneous fixes & QoL across versions: Recipe book updates (Suspicious Stew, Shulker color recipes), portal cooldown adjustments, projectile/world border bounce behavior, creative-mode container consumption fixes, sign/text rendering fixes, HDR/TTF glyph fixes, Realms UI and upload fixes, chat desync protections and checksum enhancements, numerous bug/crash resolutions across platforms. (1.21.1 → 1.21.8).<br>
+\- Removed Herobrine<br>
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>    
